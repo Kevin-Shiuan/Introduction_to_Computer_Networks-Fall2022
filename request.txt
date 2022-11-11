@@ -1,0 +1,13 @@
+GET
+/test2.html
+HTTP/1.1
+
+Host:
+127.0.0.1:12010
+
+User-Agent:
+curl/7.79.1
+
+Accept:
+*/*
+
